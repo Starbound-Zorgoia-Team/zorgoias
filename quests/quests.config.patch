@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/zorgoia",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/zorgoia",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

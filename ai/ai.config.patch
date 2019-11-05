@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/zorgoia",
+		"value" : {
+			"aiFrames" : "zorgoiaAI.png",
+			"portraitFrames" : "portraits/zorgoiaportrait.png",
+			"staticFrames" : "staticzorgoia.png"	
+		}
+	}
+]

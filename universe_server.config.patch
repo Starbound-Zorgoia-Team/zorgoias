@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/zorgoia",
+		"value" : [
+		    "/ships/zorgoia/zorgoiat0.structure",
+			"/ships/zorgoia/zorgoiat1.structure",
+			"/ships/zorgoia/zorgoiat2.structure",
+			"/ships/zorgoia/zorgoiat3.structure",
+			"/ships/zorgoia/zorgoiat4.structure",
+			"/ships/zorgoia/zorgoiat5.structure",
+			"/ships/zorgoia/zorgoiat6.structure",
+			"/ships/zorgoia/zorgoiat7.structure",
+			"/ships/zorgoia/zorgoiat8.structure"
+		]
+	}
+]

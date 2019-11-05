@@ -1,0 +1,17 @@
+[
+  {
+    "op": "add",
+    "path": "/zorgoiaStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+	    {"item" : [ "flashlight" ]},
+        {"item" : [ "torch", 10 ]},
+        {"item" : [ "zorgoiasword", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]}
+      ]
+    }]]
+  }
+]
